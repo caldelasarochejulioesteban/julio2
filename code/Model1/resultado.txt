@@ -1,0 +1,3 @@
+Archivo analizado: Logic2.java
+Líneas totales: 48
+Métodos totales: 1
